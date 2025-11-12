@@ -1,10 +1,10 @@
 #Hello World program in Python
-print("Hello World")
+print("Hello World Learn With Anviga AI")
 
 #naming conventions
-PrahmeshPatil="Intern at Avigna AI"#pascal case     
-prathmeshPatil="Intern at Avigna AI "#camel case    
-prathmesh_patil="Intern at Avigna AI"#snake case    
+PrahmeshPatil=" Avigna AI"#pascal case     
+prathmeshPatil="Avigna AI "#camel case    
+prathmesh_patil="Avigna AI"#snake case    
 
 
 
