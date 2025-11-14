@@ -5,7 +5,7 @@ b=14
 if a<b:
     print("b is greater than a")
 else:
-    print("a is greater than b")
+    print("a is greater than b ")
     
 #Question2 ==>Accept two numbers from user and print the greatest number    
 
